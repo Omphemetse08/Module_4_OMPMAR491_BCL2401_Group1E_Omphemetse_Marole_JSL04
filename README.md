@@ -4,4 +4,4 @@
 
 # The challenges
 
-# When i first run my code to the console there was error that said the is a file that is not found, but i manage to get help from my peers to solve the problem now my code is working.
+# When i first run my code to the console there was error that said there is a file that is not found, but i manage to get help from my peers to solve the problem now my code is working.
